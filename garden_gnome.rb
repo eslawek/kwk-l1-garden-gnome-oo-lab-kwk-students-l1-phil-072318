@@ -42,10 +42,10 @@ class GardenGnome
 end
 end #GardenGnome
 
-gnome = GardenGnome.new("Sherlock Gnomes", 543, "Gluten Allergy", "evil", "red")
+gnome = GardenGnome.new("Sherlock Gnomes", 543, true, "evil", "red")
 
-walter = GardenGnome.new("Walter the Worst", 67, "no gluten allergy", "evil", "blue")
+walter = GardenGnome.new("Walter the Worst", 67, false, "evil", "blue")
 
-james = GardenGnome.new("James the Jerk", 3421, "gluten allergy", "evil", "green")
+james = GardenGnome.new("James the Jerk", 3421, true, "evil", "green")
 
 gnome.gnaw
