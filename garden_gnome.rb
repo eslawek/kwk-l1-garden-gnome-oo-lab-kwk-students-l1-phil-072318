@@ -44,4 +44,8 @@ end #GardenGnome
 
 gnome = GardenGnome.new("Sherlock Gnomes", 543, "Gluten Allergy", "evil", "red")
 
+walter = GardenGnome.new("Walter the Worst", 67, "no gluten allergy", "evil", "blue")
+
+james = GardenGnome.new("James the Jerk", 3421, "gluten allergy", "evil", "green")
+
 gnome.gnaw
