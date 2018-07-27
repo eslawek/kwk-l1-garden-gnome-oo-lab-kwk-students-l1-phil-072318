@@ -44,4 +44,4 @@ end #GardenGnome
 
 gnome = GardenGnome.new("Sherlock Gnomes", 543, "Gluten Allergy", "evil", "red")
 
-gnome.return_hat_color
+gnome.shout
